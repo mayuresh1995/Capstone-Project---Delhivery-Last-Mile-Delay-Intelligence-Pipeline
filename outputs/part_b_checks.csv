@@ -1,0 +1,10 @@
+metric,value
+train_rows,840.0
+val_rows,180.0
+test_rows,180.0
+train_scaled_max_abs_mean,4.039097099112474e-16
+test_scaled_max_abs_mean,0.21868855040610002
+baseline_val_mae,15.795189417989418
+baseline_val_mse,355.52042438416476
+baseline_val_rmse,18.85524925277215
+baseline_val_r2,-0.021220919443206254
